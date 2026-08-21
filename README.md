@@ -13,7 +13,7 @@ Aspiring software engineer exploring AI/ML systems, LLM agents, and quantitative
 - 🔭 Currently a Software Engineer Intern @ Oracle Cloud Infrastructure (Identity Infrastructure), building AI-driven security tooling
 - 🧠 Interested in AI/ML research, NLP, LLM agents, reinforcement learning, UX/UI engineering, and quantitative finance
 - 🧩 I enjoy building end-to-end AI systems and learning by doing. Currently building **PRism** (an AI code-review agent) and **SignalScope** (an earnings-call sentiment pipeline)
-- 🎯 Fun fact: I direct **LingHacks**, one of the largest computational linguistics hackathons in the US (200+ attendees, 15+ countries)
+- 🎯 Fun fact: I am an Indian Classical Dancer (Bharatanatyam) with 12+ years of experience. Check out my performances with Kalaa Dance Troupe!
 - 📫 Reach me at **laahini.a@gmail.com**
 
 ---
